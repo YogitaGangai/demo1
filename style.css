@@ -1,0 +1,30 @@
+html{
+    background-color: aqua;
+}
+form{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(165, 42, 97);
+    size: calc(5);
+}
+.formstyle{
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    border: 3px solid rgb(13, 12, 12);
+    border-radius: 5px;
+    padding: 20px;
+}
+input
+{
+   
+    background-color: rgb(223, 88, 203);
+    color: rgb(11, 11, 11);
+    order: 3px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	padding: 26px;
+	margin: 5px;
+	font-size: 15px;
+}
